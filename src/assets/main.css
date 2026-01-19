@@ -2,3 +2,9 @@
   font-family: 'Exile';
   src: url('/public/Exile-Regular.ttf') format('ttf');
 }
+
+body {
+    width: 100%;
+    margin: 0;
+    overflow-y: scroll;
+}

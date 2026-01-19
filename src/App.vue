@@ -60,8 +60,10 @@ function activateRainbow() {
 }
 
 .item {
-  font-family: 'Exile';
+  font-family: 'Exile', system-ui;
   font-size: 64px;
+  font-weight: 400;
+  font-style: normal;
 }
 
 #curve.item {
